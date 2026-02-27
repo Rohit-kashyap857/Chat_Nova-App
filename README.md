@@ -28,7 +28,7 @@ Built with scalability, clean code practices, and modern mobile UX principles.
 🏗 Clean & Modular Architecture
 
 📸 App Preview
-<p align="center"> <img src="assets/screenshots/home.png" width="250"/> <img src="assets/screenshots/chat.png" width="250"/> </p>
+<p align="center"> <img src="assets/images/app_icon.png" width="250"/> <img src="assets/images/new_chat.png" width="250"/> </p>
 🛠 Tech Stack
 Technology	Usage
 Flutter	UI Development
