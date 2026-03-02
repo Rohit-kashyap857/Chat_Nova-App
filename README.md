@@ -33,11 +33,11 @@ Built with scalability, clean code practices, and modern mobile UX principles.
 <p align="center">
   <img src="assets/images/app_icon.png" width="220"/>
   <img src="assets/images/new_chat_img.png" width="220"/>
-  <img src="assets/images/new_code.jpeg" width="220"/>
+   <img src="assets/images/new_chat_speak.jpeg" width="220"/>
 </p>
 
 <p align="center">
-  <img src="assets/images/code_dark.png" width="220"/>
+  <img src="assets/images/new_code.jpeg" width="220"/>
   <img src="assets/images/drawer_img.png" width="220"/>
   <img src="assets/images/setting_img.png" width="220"/>
 </p>
